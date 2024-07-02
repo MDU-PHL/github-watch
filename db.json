@@ -1,10 +1,10 @@
 {
       "cov-lineages/pangolin-data": {
-            "url": "https://api.github.com/repos/cov-lineages/pangolin-data/releases/161827578",
-            "assets_url": "https://api.github.com/repos/cov-lineages/pangolin-data/releases/161827578/assets",
-            "upload_url": "https://uploads.github.com/repos/cov-lineages/pangolin-data/releases/161827578/assets{?name,label}",
-            "html_url": "https://github.com/cov-lineages/pangolin-data/releases/tag/v1.28",
-            "id": 161827578,
+            "url": "https://api.github.com/repos/cov-lineages/pangolin-data/releases/163635212",
+            "assets_url": "https://api.github.com/repos/cov-lineages/pangolin-data/releases/163635212/assets",
+            "upload_url": "https://uploads.github.com/repos/cov-lineages/pangolin-data/releases/163635212/assets{?name,label}",
+            "html_url": "https://github.com/cov-lineages/pangolin-data/releases/tag/v1.28.1",
+            "id": 163635212,
             "author": {
                   "login": "AngieHinrichs",
                   "id": 186983,
@@ -25,18 +25,18 @@
                   "type": "User",
                   "site_admin": false
             },
-            "node_id": "RE_kwDOGvTxf84JpUr6",
-            "tag_name": "v1.28",
+            "node_id": "RE_kwDOGvTxf84JwOAM",
+            "tag_name": "v1.28.1",
             "target_commitish": "main",
-            "name": "pangolin-data v1.28",
+            "name": "pangolin-data v1.28.1",
             "draft": false,
             "prerelease": false,
-            "created_at": "2024-06-23T00:03:35Z",
-            "published_at": "2024-06-24T15:45:36Z",
+            "created_at": "2024-07-02T17:46:31Z",
+            "published_at": "2024-07-02T17:53:22Z",
             "assets": [],
-            "tarball_url": "https://api.github.com/repos/cov-lineages/pangolin-data/tarball/v1.28",
-            "zipball_url": "https://api.github.com/repos/cov-lineages/pangolin-data/zipball/v1.28",
-            "body": "Release of pangolin-data repository corresponding to [pango-designation version 1.28](https://github.com/cov-lineages/pango-designation/releases/tag/v1.28).  This repository is compatible with pangolin v4.3 onwards.\r\n"
+            "tarball_url": "https://api.github.com/repos/cov-lineages/pangolin-data/tarball/v1.28.1",
+            "zipball_url": "https://api.github.com/repos/cov-lineages/pangolin-data/zipball/v1.28.1",
+            "body": "Removed annotation of KR.2 which was accidentally included in v1.28 as a child of LT.1 instead of being completely replaced by LT.1, causing most LT.1 sequences to be assigned KR.2. (See https://github.com/cov-lineages/pangolin-data/issues/60) No change to alias file, still pango-designation v1.28."
       },
       "nextstrain/nextclade_data": {
             "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/161142962",
