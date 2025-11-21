@@ -42,11 +42,11 @@
             "body": "Release of pangolin-data repository corresponding to [pango-designation version 1.36](https://github.com/cov-lineages/pango-designation/releases/tag/v1.36).  This repository is compatible with pangolin v4.3 onwards.\r\n"
       },
       "nextstrain/nextclade_data": {
-            "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/263780742",
-            "assets_url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/263780742/assets",
-            "upload_url": "https://uploads.github.com/repos/nextstrain/nextclade_data/releases/263780742/assets{?name,label}",
-            "html_url": "https://github.com/nextstrain/nextclade_data/releases/tag/2025-11-19--20-40-14Z",
-            "id": 263780742,
+            "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/264093020",
+            "assets_url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/264093020/assets",
+            "upload_url": "https://uploads.github.com/repos/nextstrain/nextclade_data/releases/264093020/assets{?name,label}",
+            "html_url": "https://github.com/nextstrain/nextclade_data/releases/tag/2025-11-20--19-02-04Z",
+            "id": 264093020,
             "author": {
                   "login": "github-actions[bot]",
                   "id": 41898282,
@@ -68,22 +68,22 @@
                   "user_view_type": "public",
                   "site_admin": false
             },
-            "node_id": "RE_kwDOF4y9Xs4PuPmG",
-            "tag_name": "2025-11-19--20-40-14Z",
-            "target_commitish": "0491cd53f2c7b3e32f751fc391cc454acbd891ae",
-            "name": "2025-11-19--20-40-14Z",
+            "node_id": "RE_kwDOF4y9Xs4Pvb1c",
+            "tag_name": "2025-11-20--19-02-04Z",
+            "target_commitish": "fc3cf5cae85e64b05aadeb063431652dcd31e51c",
+            "name": "2025-11-20--19-02-04Z",
             "draft": false,
             "immutable": false,
             "prerelease": false,
-            "created_at": "2025-11-19T20:40:21Z",
-            "updated_at": "2025-11-19T20:40:31Z",
-            "published_at": "2025-11-19T20:40:31Z",
+            "created_at": "2025-11-20T19:02:10Z",
+            "updated_at": "2025-11-20T19:02:18Z",
+            "published_at": "2025-11-20T19:02:18Z",
             "assets": [
                   {
-                        "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/assets/318502503",
-                        "id": 318502503,
-                        "node_id": "RA_kwDOF4y9Xs4S-_Zn",
-                        "name": "enpen__enterovirus__ev-d68__2025-11-19--20-40-14Z.zip",
+                        "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/assets/318897313",
+                        "id": 318897313,
+                        "node_id": "RA_kwDOF4y9Xs4TAfyh",
+                        "name": "enpen__enterovirus__ev-d68__2025-11-20--19-02-04Z.zip",
                         "label": "",
                         "uploader": {
                               "login": "github-actions[bot]",
@@ -108,16 +108,16 @@
                         },
                         "content_type": "application/zip",
                         "state": "uploaded",
-                        "size": 1997019,
-                        "digest": "sha256:194f79a6b44a438d3fad565a4b6f6d054393f2041dabff584c18c5637c23e70a",
-                        "download_count": 1,
-                        "created_at": "2025-11-19T20:40:30Z",
-                        "updated_at": "2025-11-19T20:40:30Z",
-                        "browser_download_url": "https://github.com/nextstrain/nextclade_data/releases/download/2025-11-19--20-40-14Z/enpen__enterovirus__ev-d68__2025-11-19--20-40-14Z.zip"
+                        "size": 1997528,
+                        "digest": "sha256:feba8b450490f7833acfdced27bd89a2e5052346ce4fd8ef0a54a7254501af64",
+                        "download_count": 2,
+                        "created_at": "2025-11-20T19:02:17Z",
+                        "updated_at": "2025-11-20T19:02:17Z",
+                        "browser_download_url": "https://github.com/nextstrain/nextclade_data/releases/download/2025-11-20--19-02-04Z/enpen__enterovirus__ev-d68__2025-11-20--19-02-04Z.zip"
                   }
             ],
-            "tarball_url": "https://api.github.com/repos/nextstrain/nextclade_data/tarball/2025-11-19--20-40-14Z",
-            "zipball_url": "https://api.github.com/repos/nextstrain/nextclade_data/zipball/2025-11-19--20-40-14Z",
-            "body": "This release contains changes for datasets:\n\n- Enterovirus D68 (enpen/enterovirus/ev-d68)\n\n\n\n## Enterovirus D68 (enpen/enterovirus/ev-d68)\n\nInitial release of an Enterovirus D68 dataset for lineage classification!\n\nRead more about Nextclade datasets in the documentation: https://docs.nextstrain.org/projects/nextclade/en/stable/user/datasets.html\n\n"
+            "tarball_url": "https://api.github.com/repos/nextstrain/nextclade_data/tarball/2025-11-20--19-02-04Z",
+            "zipball_url": "https://api.github.com/repos/nextstrain/nextclade_data/zipball/2025-11-20--19-02-04Z",
+            "body": "This release contains changes for datasets:\n\n- Enterovirus D68 (enpen/enterovirus/ev-d68)\n\n\n\n## Enterovirus D68 (enpen/enterovirus/ev-d68)\n\nAdd citation information to README.md\n\n\n\n"
       }
 }
