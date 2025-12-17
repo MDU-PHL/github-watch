@@ -42,11 +42,11 @@
             "body": "Release of pangolin-data repository corresponding to [pango-designation version 1.36](https://github.com/cov-lineages/pango-designation/releases/tag/v1.36).  This repository is compatible with pangolin v4.3 onwards.\r\n"
       },
       "nextstrain/nextclade_data": {
-            "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/269954356",
-            "assets_url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/269954356/assets",
-            "upload_url": "https://uploads.github.com/repos/nextstrain/nextclade_data/releases/269954356/assets{?name,label}",
-            "html_url": "https://github.com/nextstrain/nextclade_data/releases/tag/2025-12-12--16-44-41Z",
-            "id": 269954356,
+            "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/270870975",
+            "assets_url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/270870975/assets",
+            "upload_url": "https://uploads.github.com/repos/nextstrain/nextclade_data/releases/270870975/assets{?name,label}",
+            "html_url": "https://github.com/nextstrain/nextclade_data/releases/tag/2025-12-16--20-07-31Z",
+            "id": 270870975,
             "author": {
                   "login": "github-actions[bot]",
                   "id": 41898282,
@@ -68,22 +68,22 @@
                   "user_view_type": "public",
                   "site_admin": false
             },
-            "node_id": "RE_kwDOF4y9Xs4QFy00",
-            "tag_name": "2025-12-12--16-44-41Z",
-            "target_commitish": "92c2baf449dff59ecbf9e811d0f1d64e221e73c4",
-            "name": "2025-12-12--16-44-41Z",
+            "node_id": "RE_kwDOF4y9Xs4QJSm_",
+            "tag_name": "2025-12-16--20-07-31Z",
+            "target_commitish": "d883fe333adc77a52f5e6f397df84600095c0ac6",
+            "name": "2025-12-16--20-07-31Z",
             "draft": false,
             "immutable": false,
             "prerelease": false,
-            "created_at": "2025-12-12T16:44:48Z",
-            "updated_at": "2025-12-12T16:44:56Z",
-            "published_at": "2025-12-12T16:44:56Z",
+            "created_at": "2025-12-16T20:07:37Z",
+            "updated_at": "2025-12-16T20:07:47Z",
+            "published_at": "2025-12-16T20:07:47Z",
             "assets": [
                   {
-                        "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/assets/327914858",
-                        "id": 327914858,
-                        "node_id": "RA_kwDOF4y9Xs4Ti5Vq",
-                        "name": "nextstrain__mpox__all-clades__2025-12-12--16-44-41Z.zip",
+                        "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/assets/329478144",
+                        "id": 329478144,
+                        "node_id": "RA_kwDOF4y9Xs4To3AA",
+                        "name": "nextstrain__mpox__all-clades__2025-12-16--20-07-31Z.zip",
                         "label": "",
                         "uploader": {
                               "login": "github-actions[bot]",
@@ -108,16 +108,16 @@
                         },
                         "content_type": "application/zip",
                         "state": "uploaded",
-                        "size": 6376206,
-                        "digest": "sha256:290b8c44094d6bca7165f513c9ac8e43dcb270deda51d1de5d4cc3521255e9f1",
+                        "size": 7586729,
+                        "digest": "sha256:688003922d5dd734c0a0bf12db752875db3bcfd8132f716af8e6073595b58bc7",
                         "download_count": 1,
-                        "created_at": "2025-12-12T16:44:55Z",
-                        "updated_at": "2025-12-12T16:44:55Z",
-                        "browser_download_url": "https://github.com/nextstrain/nextclade_data/releases/download/2025-12-12--16-44-41Z/nextstrain__mpox__all-clades__2025-12-12--16-44-41Z.zip"
+                        "created_at": "2025-12-16T20:07:45Z",
+                        "updated_at": "2025-12-16T20:07:46Z",
+                        "browser_download_url": "https://github.com/nextstrain/nextclade_data/releases/download/2025-12-16--20-07-31Z/nextstrain__mpox__all-clades__2025-12-16--20-07-31Z.zip"
                   }
             ],
-            "tarball_url": "https://api.github.com/repos/nextstrain/nextclade_data/tarball/2025-12-12--16-44-41Z",
-            "zipball_url": "https://api.github.com/repos/nextstrain/nextclade_data/zipball/2025-12-12--16-44-41Z",
-            "body": "This release contains changes for datasets:\n\n- Mpox virus (All clades) (nextstrain/mpox/all-clades)\n\n\n\n## Mpox virus (All clades) (nextstrain/mpox/all-clades)\n\n- Add placement priors to discourage attachment at the recombinant clade Ib/IIb. Previously, short sequences would be called recombinant even if they could just as well be clade Ib (which they more likely are).\n\n\n\n"
+            "tarball_url": "https://api.github.com/repos/nextstrain/nextclade_data/tarball/2025-12-16--20-07-31Z",
+            "zipball_url": "https://api.github.com/repos/nextstrain/nextclade_data/zipball/2025-12-16--20-07-31Z",
+            "body": "This release contains changes for datasets:\n\n- Mpox virus (All clades) (nextstrain/mpox/all-clades)\n\n\n\n## Mpox virus (All clades) (nextstrain/mpox/all-clades)\n\n- Fix clade labeling of some clade Ia sequences wrongly reported as `unassigned` instead of `Ia`.\n- Add some newly released sequences.\n\n\n\n"
       }
 }
