@@ -1,10 +1,10 @@
 {
       "cov-lineages/pangolin-data": {
-            "url": "https://api.github.com/repos/cov-lineages/pangolin-data/releases/261172658",
-            "assets_url": "https://api.github.com/repos/cov-lineages/pangolin-data/releases/261172658/assets",
-            "upload_url": "https://uploads.github.com/repos/cov-lineages/pangolin-data/releases/261172658/assets{?name,label}",
-            "html_url": "https://github.com/cov-lineages/pangolin-data/releases/tag/v1.36",
-            "id": 261172658,
+            "url": "https://api.github.com/repos/cov-lineages/pangolin-data/releases/276535677",
+            "assets_url": "https://api.github.com/repos/cov-lineages/pangolin-data/releases/276535677/assets",
+            "upload_url": "https://uploads.github.com/repos/cov-lineages/pangolin-data/releases/276535677/assets{?name,label}",
+            "html_url": "https://github.com/cov-lineages/pangolin-data/releases/tag/v1.37",
+            "id": 276535677,
             "author": {
                   "login": "AngieHinrichs",
                   "id": 186983,
@@ -26,20 +26,20 @@
                   "user_view_type": "public",
                   "site_admin": false
             },
-            "node_id": "RE_kwDOGvTxf84PkS2y",
-            "tag_name": "v1.36",
+            "node_id": "RE_kwDOGvTxf84Qe5l9",
+            "tag_name": "v1.37",
             "target_commitish": "main",
-            "name": "pangolin-data v1.36",
+            "name": "pangolin-data v1.37",
             "draft": false,
             "immutable": false,
             "prerelease": false,
-            "created_at": "2025-11-10T16:43:37Z",
-            "updated_at": "2025-11-10T16:49:16Z",
-            "published_at": "2025-11-10T16:49:16Z",
+            "created_at": "2026-01-13T21:59:31Z",
+            "updated_at": "2026-01-13T22:07:53Z",
+            "published_at": "2026-01-13T22:07:53Z",
             "assets": [],
-            "tarball_url": "https://api.github.com/repos/cov-lineages/pangolin-data/tarball/v1.36",
-            "zipball_url": "https://api.github.com/repos/cov-lineages/pangolin-data/zipball/v1.36",
-            "body": "Release of pangolin-data repository corresponding to [pango-designation version 1.36](https://github.com/cov-lineages/pango-designation/releases/tag/v1.36).  This repository is compatible with pangolin v4.3 onwards.\r\n"
+            "tarball_url": "https://api.github.com/repos/cov-lineages/pangolin-data/tarball/v1.37",
+            "zipball_url": "https://api.github.com/repos/cov-lineages/pangolin-data/zipball/v1.37",
+            "body": "Release of pangolin-data repository corresponding to [pango-designation version 1.37](https://github.com/cov-lineages/pango-designation/releases/tag/v1.37).  This repository is compatible with pangolin v4.3 onwards.\r\n"
       },
       "nextstrain/nextclade_data": {
             "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/274547194",
