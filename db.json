@@ -42,11 +42,11 @@
             "body": "Release of pangolin-data repository corresponding to [pango-designation version 1.37](https://github.com/cov-lineages/pango-designation/releases/tag/v1.37).  This repository is compatible with pangolin v4.3 onwards.\r\n"
       },
       "nextstrain/nextclade_data": {
-            "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/319745292",
-            "assets_url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/319745292/assets",
-            "upload_url": "https://uploads.github.com/repos/nextstrain/nextclade_data/releases/319745292/assets{?name,label}",
-            "html_url": "https://github.com/nextstrain/nextclade_data/releases/tag/2026-05-08--21-17-05Z",
-            "id": 319745292,
+            "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/320723701",
+            "assets_url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/320723701/assets",
+            "upload_url": "https://uploads.github.com/repos/nextstrain/nextclade_data/releases/320723701/assets{?name,label}",
+            "html_url": "https://github.com/nextstrain/nextclade_data/releases/tag/2026-05-11--18-59-50Z",
+            "id": 320723701,
             "author": {
                   "login": "github-actions[bot]",
                   "id": 41898282,
@@ -68,22 +68,22 @@
                   "user_view_type": "public",
                   "site_admin": false
             },
-            "node_id": "RE_kwDOF4y9Xs4TDu0M",
-            "tag_name": "2026-05-08--21-17-05Z",
-            "target_commitish": "164f91df55f000e55753493df4d2186a4879f251",
-            "name": "2026-05-08--21-17-05Z",
+            "node_id": "RE_kwDOF4y9Xs4THdr1",
+            "tag_name": "2026-05-11--18-59-50Z",
+            "target_commitish": "6b2fb7be8dfedd4ed69a347ab90640c5f4151884",
+            "name": "2026-05-11--18-59-50Z",
             "draft": false,
             "immutable": false,
             "prerelease": false,
-            "created_at": "2026-05-08T21:17:18Z",
-            "updated_at": "2026-05-08T21:17:25Z",
-            "published_at": "2026-05-08T21:17:25Z",
+            "created_at": "2026-05-11T19:00:03Z",
+            "updated_at": "2026-05-11T19:00:13Z",
+            "published_at": "2026-05-11T19:00:13Z",
             "assets": [
                   {
-                        "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/assets/415567288",
-                        "id": 415567288,
-                        "node_id": "RA_kwDOF4y9Xs4YxQ24",
-                        "name": "nextstrain__orthohantavirus__andv__l__2026-05-08--21-17-05Z.zip",
+                        "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/assets/417690425",
+                        "id": 417690425,
+                        "node_id": "RA_kwDOF4y9Xs4Y5XM5",
+                        "name": "nextstrain__orthohantavirus__andv__l__2026-05-11--18-59-50Z.zip",
                         "label": "",
                         "uploader": {
                               "login": "github-actions[bot]",
@@ -108,18 +108,18 @@
                         },
                         "content_type": "application/zip",
                         "state": "uploaded",
-                        "size": 234791,
-                        "digest": "sha256:0f4588e7458dce7f931e308a405a6d659b7003a9310a6320b76cb56a625d7932",
+                        "size": 308900,
+                        "digest": "sha256:0c12dbc9d93da521cd1f665bc81d0c7c1e95e2db05d6502078acf7dc151e8589",
                         "download_count": 0,
-                        "created_at": "2026-05-08T21:17:25Z",
-                        "updated_at": "2026-05-08T21:17:25Z",
-                        "browser_download_url": "https://github.com/nextstrain/nextclade_data/releases/download/2026-05-08--21-17-05Z/nextstrain__orthohantavirus__andv__l__2026-05-08--21-17-05Z.zip"
+                        "created_at": "2026-05-11T19:00:12Z",
+                        "updated_at": "2026-05-11T19:00:13Z",
+                        "browser_download_url": "https://github.com/nextstrain/nextclade_data/releases/download/2026-05-11--18-59-50Z/nextstrain__orthohantavirus__andv__l__2026-05-11--18-59-50Z.zip"
                   },
                   {
-                        "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/assets/415567290",
-                        "id": 415567290,
-                        "node_id": "RA_kwDOF4y9Xs4YxQ26",
-                        "name": "nextstrain__orthohantavirus__andv__m__2026-05-08--21-17-05Z.zip",
+                        "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/assets/417690426",
+                        "id": 417690426,
+                        "node_id": "RA_kwDOF4y9Xs4Y5XM6",
+                        "name": "nextstrain__orthohantavirus__andv__m__2026-05-11--18-59-50Z.zip",
                         "label": "",
                         "uploader": {
                               "login": "github-actions[bot]",
@@ -144,18 +144,18 @@
                         },
                         "content_type": "application/zip",
                         "state": "uploaded",
-                        "size": 193260,
-                        "digest": "sha256:4f4bb5fb6f095d71da1d39106ccbf9a8b483813457e422b6aa294b33e141c801",
+                        "size": 316483,
+                        "digest": "sha256:d183252b2a7e5d43d2ccb31d4be40364d863371001ff954ff1ea476e542529f0",
                         "download_count": 0,
-                        "created_at": "2026-05-08T21:17:25Z",
-                        "updated_at": "2026-05-08T21:17:25Z",
-                        "browser_download_url": "https://github.com/nextstrain/nextclade_data/releases/download/2026-05-08--21-17-05Z/nextstrain__orthohantavirus__andv__m__2026-05-08--21-17-05Z.zip"
+                        "created_at": "2026-05-11T19:00:12Z",
+                        "updated_at": "2026-05-11T19:00:13Z",
+                        "browser_download_url": "https://github.com/nextstrain/nextclade_data/releases/download/2026-05-11--18-59-50Z/nextstrain__orthohantavirus__andv__m__2026-05-11--18-59-50Z.zip"
                   },
                   {
-                        "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/assets/415567289",
-                        "id": 415567289,
-                        "node_id": "RA_kwDOF4y9Xs4YxQ25",
-                        "name": "nextstrain__orthohantavirus__andv__s__2026-05-08--21-17-05Z.zip",
+                        "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/assets/417690427",
+                        "id": 417690427,
+                        "node_id": "RA_kwDOF4y9Xs4Y5XM7",
+                        "name": "nextstrain__orthohantavirus__andv__s__2026-05-11--18-59-50Z.zip",
                         "label": "",
                         "uploader": {
                               "login": "github-actions[bot]",
@@ -180,16 +180,16 @@
                         },
                         "content_type": "application/zip",
                         "state": "uploaded",
-                        "size": 144325,
-                        "digest": "sha256:f561642b20098bb11e96be5230bac1d0bbd7e0666c8377f37574a4a4be553652",
+                        "size": 242412,
+                        "digest": "sha256:35a4ca070e926e96d5bbd98727e95507ec85b36342e21237a28ca56fc2f24229",
                         "download_count": 0,
-                        "created_at": "2026-05-08T21:17:25Z",
-                        "updated_at": "2026-05-08T21:17:25Z",
-                        "browser_download_url": "https://github.com/nextstrain/nextclade_data/releases/download/2026-05-08--21-17-05Z/nextstrain__orthohantavirus__andv__s__2026-05-08--21-17-05Z.zip"
+                        "created_at": "2026-05-11T19:00:12Z",
+                        "updated_at": "2026-05-11T19:00:13Z",
+                        "browser_download_url": "https://github.com/nextstrain/nextclade_data/releases/download/2026-05-11--18-59-50Z/nextstrain__orthohantavirus__andv__s__2026-05-11--18-59-50Z.zip"
                   }
             ],
-            "tarball_url": "https://api.github.com/repos/nextstrain/nextclade_data/tarball/2026-05-08--21-17-05Z",
-            "zipball_url": "https://api.github.com/repos/nextstrain/nextclade_data/zipball/2026-05-08--21-17-05Z",
-            "body": "This release contains changes for datasets:\n\n- Andesvirus (segment L) (nextstrain/orthohantavirus/andv/l)\n- Andesvirus (segment M) (nextstrain/orthohantavirus/andv/m)\n- Andesvirus (segment S) (nextstrain/orthohantavirus/andv/s)\n\n\n\n## Andesvirus (segment L) (nextstrain/orthohantavirus/andv/l)\n\n - initial release\n\n\n## Andesvirus (segment M) (nextstrain/orthohantavirus/andv/m)\n\n - initial release\n\n\n## Andesvirus (segment S) (nextstrain/orthohantavirus/andv/s)\n\n - initial release\n\n"
+            "tarball_url": "https://api.github.com/repos/nextstrain/nextclade_data/tarball/2026-05-11--18-59-50Z",
+            "zipball_url": "https://api.github.com/repos/nextstrain/nextclade_data/zipball/2026-05-11--18-59-50Z",
+            "body": "This release contains changes for datasets:\n\n- Andesvirus (segment L) (nextstrain/orthohantavirus/andv/l)\n- Andesvirus (segment M) (nextstrain/orthohantavirus/andv/m)\n- Andesvirus (segment S) (nextstrain/orthohantavirus/andv/s)\n\n\n\n## Andesvirus (segment L) (nextstrain/orthohantavirus/andv/l)\n\n- Updating Nextclade dataset with the latest sequences and metadata from Pathoplexus\n- Include 2026 outbreak sequences\n- add 2026 outbreak annotation\n\n\n\n\n## Andesvirus (segment M) (nextstrain/orthohantavirus/andv/m)\n\n- Updating Nextclade dataset with the latest sequences and metadata from Pathoplexus\n- Include 2026 outbreak sequences\n- add 2026 outbreak annotation\n\n\n\n\n## Andesvirus (segment S) (nextstrain/orthohantavirus/andv/s)\n\n- Updating Nextclade dataset with the latest sequences and metadata from Pathoplexus\n- Include 2026 outbreak sequences\n- add 2026 outbreak annotation\n\n\n\n"
       }
 }
