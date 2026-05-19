@@ -42,11 +42,11 @@
             "body": "Release of pangolin-data repository corresponding to [pango-designation version 1.37](https://github.com/cov-lineages/pango-designation/releases/tag/v1.37).  This repository is compatible with pangolin v4.3 onwards.\r\n"
       },
       "nextstrain/nextclade_data": {
-            "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/323356180",
-            "assets_url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/323356180/assets",
-            "upload_url": "https://uploads.github.com/repos/nextstrain/nextclade_data/releases/323356180/assets{?name,label}",
-            "html_url": "https://github.com/nextstrain/nextclade_data/releases/tag/2026-05-15--16-16-45Z",
-            "id": 323356180,
+            "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/324533855",
+            "assets_url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/324533855/assets",
+            "upload_url": "https://uploads.github.com/repos/nextstrain/nextclade_data/releases/324533855/assets{?name,label}",
+            "html_url": "https://github.com/nextstrain/nextclade_data/releases/tag/2026-05-18--20-09-34Z",
+            "id": 324533855,
             "author": {
                   "login": "github-actions[bot]",
                   "id": 41898282,
@@ -68,22 +68,22 @@
                   "user_view_type": "public",
                   "site_admin": false
             },
-            "node_id": "RE_kwDOF4y9Xs4TRgYU",
-            "tag_name": "2026-05-15--16-16-45Z",
-            "target_commitish": "7fe55233585ff4875d5ea0d5979c30be3fb90b83",
-            "name": "2026-05-15--16-16-45Z",
+            "node_id": "RE_kwDOF4y9Xs4TV_5f",
+            "tag_name": "2026-05-18--20-09-34Z",
+            "target_commitish": "ac26df56ca7ee9dfd9ce53399d582cc8a4acc526",
+            "name": "2026-05-18--20-09-34Z",
             "draft": false,
             "immutable": false,
             "prerelease": false,
-            "created_at": "2026-05-15T16:16:58Z",
-            "updated_at": "2026-05-15T16:17:07Z",
-            "published_at": "2026-05-15T16:17:07Z",
+            "created_at": "2026-05-18T20:09:47Z",
+            "updated_at": "2026-05-18T20:09:55Z",
+            "published_at": "2026-05-18T20:09:55Z",
             "assets": [
                   {
-                        "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/assets/421134069",
-                        "id": 421134069,
-                        "node_id": "RA_kwDOF4y9Xs4ZGf71",
-                        "name": "nextstrain__orthoebolavirus__bdbv__2026-05-15--16-16-45Z.zip",
+                        "url": "https://api.github.com/repos/nextstrain/nextclade_data/releases/assets/423577242",
+                        "id": 423577242,
+                        "node_id": "RA_kwDOF4y9Xs4ZP0aa",
+                        "name": "nextstrain__orthoebolavirus__bdbv__2026-05-18--20-09-34Z.zip",
                         "label": "",
                         "uploader": {
                               "login": "github-actions[bot]",
@@ -108,16 +108,16 @@
                         },
                         "content_type": "application/zip",
                         "state": "uploaded",
-                        "size": 251677,
-                        "digest": "sha256:e6ee5baa31da92185d2a1e3ff3a7dd9a1143b01fe19c51ea4cacf2879bc3ad9a",
+                        "size": 268768,
+                        "digest": "sha256:1b5659213701015d0c4aa820ace248789026a70d14dcabd6f21e9847db404fd4",
                         "download_count": 0,
-                        "created_at": "2026-05-15T16:17:06Z",
-                        "updated_at": "2026-05-15T16:17:06Z",
-                        "browser_download_url": "https://github.com/nextstrain/nextclade_data/releases/download/2026-05-15--16-16-45Z/nextstrain__orthoebolavirus__bdbv__2026-05-15--16-16-45Z.zip"
+                        "created_at": "2026-05-18T20:09:54Z",
+                        "updated_at": "2026-05-18T20:09:54Z",
+                        "browser_download_url": "https://github.com/nextstrain/nextclade_data/releases/download/2026-05-18--20-09-34Z/nextstrain__orthoebolavirus__bdbv__2026-05-18--20-09-34Z.zip"
                   }
             ],
-            "tarball_url": "https://api.github.com/repos/nextstrain/nextclade_data/tarball/2026-05-15--16-16-45Z",
-            "zipball_url": "https://api.github.com/repos/nextstrain/nextclade_data/zipball/2026-05-15--16-16-45Z",
-            "body": "This release contains changes for datasets:\n\n- Bundibugyo ebolavirus (nextstrain/orthoebolavirus/bdbv)\n\n\n\n## Bundibugyo ebolavirus (nextstrain/orthoebolavirus/bdbv)\n\n"
+            "tarball_url": "https://api.github.com/repos/nextstrain/nextclade_data/tarball/2026-05-18--20-09-34Z",
+            "zipball_url": "https://api.github.com/repos/nextstrain/nextclade_data/zipball/2026-05-18--20-09-34Z",
+            "body": "This release contains changes for datasets:\n\n- Bundibugyo ebolavirus (nextstrain/orthoebolavirus/bdbv)\n\n\n\n## Bundibugyo ebolavirus (nextstrain/orthoebolavirus/bdbv)\n\n- Add outbreak annotation\n- add GP_003:367 to known stop codons\n- Include 2026 genomes\n\n\n\n\n"
       }
 }
